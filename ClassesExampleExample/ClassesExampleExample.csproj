@@ -65,6 +65,7 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="BookNameDto.cs" />
+    <Compile Include="ItemDto.cs" />
     <Compile Include="LibraryDataClasses.cs">
       <DependentUpon>LibraryDataClasses.dbml</DependentUpon>
     </Compile>
